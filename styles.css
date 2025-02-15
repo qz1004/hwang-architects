@@ -1,0 +1,85 @@
+/* Custom CSS */
+.red-dot {
+  display: inline-block;
+  width: 3px;
+  height: 3px;
+  background-color: red;
+  border-radius: 50%;
+  margin: 0 1px;
+  vertical-align: middle;
+}
+
+.bg-gray-100 {
+  background-color: #f8f9fa;
+}
+
+.hero {
+  background-position: center;
+}
+
+.shadow-sm {
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+a img {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+a img:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+/* Image Container */
+.image-container {
+  position: relative;
+  display: block;
+  overflow: hidden;
+  border-radius: 8px; /* Match the image's border-radius */
+}
+
+/* Image Caption */
+.image-caption {
+  position: absolute;
+  bottom: 20px;
+  left: 0;
+  width: 100%;
+  padding: 1rem;
+  color: white;
+  border-bottom-left-radius: 8px;
+  border-bottom-right-radius: 8px;
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+/* Project Title */
+.project-title {
+  font-size: 1.25rem;
+  font-weight: bold;
+  display: block;
+}
+
+/* Project Subtitle */
+.project-subtitle {
+  font-size: 1rem;
+  display: block;
+  color: rgba(255, 255, 255, 0.8);
+}
+
+/* Filter Links */
+.filter-link {
+  text-decoration: none;
+  color: inherit;
+  cursor: pointer;
+  padding: 0.25rem 0.5rem;
+  border-radius: 4px;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.filter-link.active {
+  background-color: #000;
+  color: #fff;
+}
+
+.filter-link:hover {
+  background-color: #f0f0f0;
+}

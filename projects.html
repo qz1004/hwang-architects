@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Hwang Architects</title>
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css"
+    />
+  </head>
+  <body>
+    <!-- Header -->
+    <header class="sticky-top bg-white shadow-sm py-3">
+      <div class="container">
+        <div class="d-flex justify-content-between align-items-center">
+          <div class="d-flex align-items-center gap-2">
+            <a href="/" class="d-flex align-items-center text-decoration-none">
+              <img
+                src="logo.jpg"
+                alt="HA Architects"
+                class="img-fluid"
+                style="width: 40px; height: 40px"
+              />
+              <span class="text-dark fw-medium ms-2">Hwang Architects</span>
+            </a>
+          </div>
+          <nav class="d-flex gap-4">
+            <a href="/#about-us" class="text-dark text-decoration-none"
+              >About Us</a
+            >
+            <a href="/#portfolio" class="text-dark text-decoration-none"
+              >Portfolio</a
+            >
+            <a href="/#services" class="text-dark text-decoration-none"
+              >Services</a
+            >
+          </nav>
+          <div>
+            <a href="/#contact-us" class="btn btn-outline-dark px-3 py-2 fs-6"
+              >Contact Us</a
+            >
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <!-- Projects Section -->
+    <section id="projects" class="py-5">
+      <div class="container">
+        <div class="row">
+          <div class="col-12">
+            <div class="bg-white text-dark d-inline-block px-3 py-1 mb-3">
+              <span>Filter:&nbsp;&nbsp;</span>
+              <a href="#" class="filter-link active" data-filter="all">All</a>
+              <span class="red-dot"></span>
+              <a href="#" class="filter-link" data-filter="manufacturing"
+                >Manufacturing</a
+              >
+              <span class="red-dot"></span>
+              <a href="#" class="filter-link" data-filter="logistics"
+                >Logistics</a
+              >
+              <span class="red-dot"></span>
+              <a href="#" class="filter-link" data-filter="mixed-use"
+                >Mixed Use</a
+              >
+            </div>
+          </div>
+        </div>
+        <!-- Gallery -->
+        <div class="row" id="project-gallery">
+          <div
+            class="col-lg-4 col-md-12 mb-4 mb-lg-0"
+            data-category="manufacturing"
+          >
+            <a href="projects/allied" class="image-container">
+              <img
+                src="ha-gallery/ha-allied.jpg"
+                class="w-100 shadow-1-strong rounded mb-4"
+              />
+              <div class="image-caption">
+                <span class="project-title">Allied</span>
+                <span class="project-subtitle">Changi, Singapore</span>
+              </div>
+            </a>
+          </div>
+
+          <div
+            class="col-lg-4 col-md-12 mb-4 mb-lg-0"
+            data-category="logistics"
+          >
+            <a href="projects/bax" class="image-container">
+              <img
+                src="ha-gallery/ha-bax.jpg"
+                class="w-100 shadow-1-strong rounded mb-4"
+              />
+              <div class="image-caption">
+                <span class="project-title">BAX</span>
+                <span class="project-subtitle">Bukit Batok, Singapore</span>
+              </div>
+            </a>
+          </div>
+
+          <div
+            class="col-lg-4 col-md-12 mb-4 mb-lg-0"
+            data-category="mixed-use"
+          >
+            <a href="projects/charleskeith" class="image-container">
+              <img
+                src="ha-gallery/ha-charleskeith.jpg"
+                class="w-100 shadow-1-strong rounded mb-4"
+              />
+              <div class="image-caption">
+                <span class="project-title">Charles & Keith</span>
+                <span class="project-subtitle">Jurong, Singapore</span>
+              </div>
+            </a>
+          </div>
+
+          <div
+            class="col-lg-4 col-md-12 mb-4 mb-lg-0"
+            data-category="manufacturing"
+          >
+            <a href="projects/expeditors" class="image-container">
+              <img
+                src="ha-gallery/ha-expeditors.jpg"
+                class="w-100 shadow-1-strong rounded mb-4"
+              />
+              <div class="image-caption">
+                <span class="project-title">Expeditors</span>
+                <span class="project-subtitle">Yishun, Singapore</span>
+              </div>
+            </a>
+          </div>
+
+          <div
+            class="col-lg-4 col-md-12 mb-4 mb-lg-0"
+            data-category="logistics"
+          >
+            <a href="projects/goldin" class="image-container">
+              <img
+                src="ha-gallery/ha-goldin.jpg"
+                class="w-100 shadow-1-strong rounded mb-4"
+              />
+              <div class="image-caption">
+                <span class="project-title">Goldin</span>
+                <span class="project-subtitle">Paya Lebar, Singapore</span>
+              </div>
+            </a>
+          </div>
+
+          <div
+            class="col-lg-4 col-md-12 mb-4 mb-lg-0"
+            data-category="mixed-use"
+          >
+            <a href="projects/goodrich" class="image-container">
+              <img
+                src="ha-gallery/ha-goodrich.jpg"
+                class="w-100 shadow-1-strong rounded mb-4"
+              />
+              <div class="image-caption">
+                <span class="project-title">Goodrich</span>
+                <span class="project-subtitle">Serangoon, Singapore</span>
+              </div>
+            </a>
+          </div>
+
+          <div
+            class="col-lg-4 col-md-12 mb-4 mb-lg-0"
+            data-category="mixed-use"
+          >
+            <a href="projects/ibm" class="image-container">
+              <img
+                src="ha-gallery/ha-ibm.jpg"
+                class="w-100 shadow-1-strong rounded mb-4"
+              />
+              <div class="image-caption">
+                <span class="project-title">IBM</span>
+                <span class="project-subtitle">Punggol, Singapore</span>
+              </div>
+            </a>
+          </div>
+
+          <div
+            class="col-lg-4 col-md-12 mb-4 mb-lg-0"
+            data-category="manufacturing"
+          >
+            <a href="projects/rollsroyce" class="image-container">
+              <img
+                src="ha-gallery/ha-rollsroyce.jpg"
+                class="w-100 shadow-1-strong rounded mb-4"
+              />
+              <div class="image-caption">
+                <span class="project-title">Rolls Royce</span>
+                <span class="project-subtitle">Serangoon, Singapore</span>
+              </div>
+            </a>
+          </div>
+
+          <div
+            class="col-lg-4 col-md-12 mb-4 mb-lg-0"
+            data-category="logistics"
+          >
+            <a href="projects/safran" class="image-container">
+              <img
+                src="ha-gallery/ha-safran.jpg"
+                class="w-100 shadow-1-strong rounded mb-4"
+              />
+              <div class="image-caption">
+                <span class="project-title">Safran</span>
+                <span class="project-subtitle"
+                  >Changi Industrial Park, Singapore</span
+                >
+              </div>
+            </a>
+          </div>
+
+          <div
+            class="col-lg-4 col-md-12 mb-4 mb-lg-0"
+            data-category="manufacturing"
+          >
+            <a href="projects/sdv" class="image-container">
+              <img
+                src="ha-gallery/ha-sdv.jpg"
+                class="w-100 shadow-1-strong rounded mb-4"
+              />
+              <div class="image-caption">
+                <span class="project-title">SDV</span>
+                <span class="project-subtitle">Labrador Park, Singapore</span>
+              </div>
+            </a>
+          </div>
+
+          <div
+            class="col-lg-4 col-md-12 mb-4 mb-lg-0"
+            data-category="logistics"
+          >
+            <a href="projects/thales" class="image-container">
+              <img
+                src="ha-gallery/ha-thales.jpg"
+                class="w-100 shadow-1-strong rounded mb-4"
+              />
+              <div class="image-caption">
+                <span class="project-title">Thales</span>
+                <span class="project-subtitle"
+                  >Changi Industrial Park, Singapore</span
+                >
+              </div>
+            </a>
+          </div>
+
+          <div
+            class="col-lg-4 col-md-12 mb-4 mb-lg-0"
+            data-category="logistics"
+          >
+            <a href="projects/ups" class="image-container">
+              <img
+                src="ha-gallery/ha-ups.jpg"
+                class="w-100 shadow-1-strong rounded mb-4"
+              />
+              <div class="image-caption">
+                <span class="project-title">UPS</span>
+                <span class="project-subtitle">Kranji, Singapore</span>
+              </div>
+            </a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="text-dark mt-3 py-3">
+      <div class="container text-center">
+        <p class="mb-0">&copy; 2025 Hwang Architects. All rights reserved.</p>
+      </div>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="scripts.js"></script>
+  </body>
+</html>
