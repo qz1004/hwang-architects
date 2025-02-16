@@ -83,3 +83,38 @@ a img:hover {
 .filter-link:hover {
   background-color: #f0f0f0;
 }
+
+/* Project Description Section */
+#project-detail {
+  margin-top: -1px; /* Remove gap between hero and description */
+}
+
+#project-detail .col-3 {
+  background-color: #f8f9fa; /* Light background color */
+  min-height: 50vh; /* Full-length background */
+  display: flex;
+  max-height: fit-content;
+  align-items: start; /* Vertically align text */
+  justify-content: center; /* Horizontally align text */
+}
+
+/* Breadcrumb Navigation */
+.breadcrumb {
+  background-color: transparent;
+  padding: 0;
+  margin-bottom: 0.5rem;
+}
+
+.breadcrumb-item a {
+  color: #000; /* Black text color */
+  text-decoration: none;
+  font-weight: 500; /* Medium font weight */
+}
+
+.breadcrumb-item a:hover {
+  text-decoration: underline; /* Underline on hover */
+}
+
+.breadcrumb-item.active {
+  color: #666; /* Gray text color for the active item */
+}
