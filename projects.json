@@ -25,7 +25,7 @@
     "title": "Charles & Keith",
     "location": "Yishun, Singapore",
     "image": "ha-gallery/ha-charleskeith.jpg",
-    "year": "2023",
+    "year": "2006",
     "size": "19,700 sqft",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam varius quis tortor quis aliquet. Mauris eu elementum purus, quis posuere arcu. Sed egestas interdum lorem sed commodo. Mauris tincidunt sem ut eros lobortis dictum. Sed at lacinia est, ac tristique mauris. Curabitur enim arcu, auctor a metus vel, posuere luctus dui. Cras quis lacinia mi, eget euismod massa. Suspendisse non egestas erat. Curabitur quis nulla non lorem viverra lobortis ultricies eget sapien. Ut scelerisque molestie consequat. Ut a leo eu orci dictum aliquet ut vitae diam. Curabitur feugiat mauris turpis, non vulputate nulla condimentum ac. In hac habitasse platea dictumst. Nullam turpis arcu, accumsan condimentum lectus et, semper imperdiet odio. Praesent auctor malesuada luctus. Curabitur posuere, metus eget sodales tincidunt, libero orci pharetra mi, eget ornare ante justo eget dolor. Donec laoreet sagittis neque, nec porttitor augue consequat ac. Sed euismod enim vel sapien scelerisque volutpat nec non nulla. Vivamus in rutrum nisi. Donec purus eros, mollis et aliquam commodo, iaculis quis odio. In vestibulum mi a gravida imperdiet. In lobortis velit et ante tincidunt, eget fermentum ipsum interdum. Fusce leo diam, consequat in erat id, mollis euismod leo. Nam nec metus sed ante cursus dignissim. Fusce non consequat lorem, non euismod urna."
   },
@@ -81,10 +81,10 @@
   },
   {
     "id": 9,
-    "slug": "safran",
-    "title": "Safran",
+    "slug": "jel",
+    "title": "JEL",
     "location": "Changi Industrial Park, Singapore",
-    "image": "ha-gallery/ha-safran.jpg",
+    "image": "ha-gallery/ha-jel.jpg",
     "year": "2022",
     "size": "412,900 sqft",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam varius quis tortor quis aliquet. Mauris eu elementum purus, quis posuere arcu. Sed egestas interdum lorem sed commodo. Mauris tincidunt sem ut eros lobortis dictum. Sed at lacinia est, ac tristique mauris. Curabitur enim arcu, auctor a metus vel, posuere luctus dui. Cras quis lacinia mi, eget euismod massa. Suspendisse non egestas erat. Curabitur quis nulla non lorem viverra lobortis ultricies eget sapien. Ut scelerisque molestie consequat. Ut a leo eu orci dictum aliquet ut vitae diam. Curabitur feugiat mauris turpis, non vulputate nulla condimentum ac. In hac habitasse platea dictumst. Nullam turpis arcu, accumsan condimentum lectus et, semper imperdiet odio. Praesent auctor malesuada luctus. Curabitur posuere, metus eget sodales tincidunt, libero orci pharetra mi, eget ornare ante justo eget dolor. Donec laoreet sagittis neque, nec porttitor augue consequat ac. Sed euismod enim vel sapien scelerisque volutpat nec non nulla. Vivamus in rutrum nisi. Donec purus eros, mollis et aliquam commodo, iaculis quis odio. In vestibulum mi a gravida imperdiet. In lobortis velit et ante tincidunt, eget fermentum ipsum interdum. Fusce leo diam, consequat in erat id, mollis euismod leo. Nam nec metus sed ante cursus dignissim. Fusce non consequat lorem, non euismod urna."
@@ -101,10 +101,10 @@
   },
   {
     "id": 11,
-    "slug": "thales",
-    "title": "Thales",
+    "slug": "cp",
+    "title": "C&P",
     "location": "Changi Industrial Park, Singapore",
-    "image": "ha-gallery/ha-thales.jpg",
+    "image": "ha-gallery/ha-cp.jpg",
     "year": "2021",
     "size": "93,400sqft",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam varius quis tortor quis aliquet. Mauris eu elementum purus, quis posuere arcu. Sed egestas interdum lorem sed commodo. Mauris tincidunt sem ut eros lobortis dictum. Sed at lacinia est, ac tristique mauris. Curabitur enim arcu, auctor a metus vel, posuere luctus dui. Cras quis lacinia mi, eget euismod massa. Suspendisse non egestas erat. Curabitur quis nulla non lorem viverra lobortis ultricies eget sapien. Ut scelerisque molestie consequat. Ut a leo eu orci dictum aliquet ut vitae diam. Curabitur feugiat mauris turpis, non vulputate nulla condimentum ac. In hac habitasse platea dictumst. Nullam turpis arcu, accumsan condimentum lectus et, semper imperdiet odio. Praesent auctor malesuada luctus. Curabitur posuere, metus eget sodales tincidunt, libero orci pharetra mi, eget ornare ante justo eget dolor. Donec laoreet sagittis neque, nec porttitor augue consequat ac. Sed euismod enim vel sapien scelerisque volutpat nec non nulla. Vivamus in rutrum nisi. Donec purus eros, mollis et aliquam commodo, iaculis quis odio. In vestibulum mi a gravida imperdiet. In lobortis velit et ante tincidunt, eget fermentum ipsum interdum. Fusce leo diam, consequat in erat id, mollis euismod leo. Nam nec metus sed ante cursus dignissim. Fusce non consequat lorem, non euismod urna."
