@@ -6,7 +6,7 @@
     "location": "Changi, Singapore",
     "image": "ha-gallery/ha-allied.jpg",
     "year": "2021",
-    "size": "50,000sqft",
+    "size": "50,000 sqft",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam varius quis tortor quis aliquet. Mauris eu elementum purus, quis posuere arcu. Sed egestas interdum lorem sed commodo. Mauris tincidunt sem ut eros lobortis dictum. Sed at lacinia est, ac tristique mauris. Curabitur enim arcu, auctor a metus vel, posuere luctus dui. Cras quis lacinia mi, eget euismod massa. Suspendisse non egestas erat. Curabitur quis nulla non lorem viverra lobortis ultricies eget sapien. Ut scelerisque molestie consequat. Ut a leo eu orci dictum aliquet ut vitae diam. Curabitur feugiat mauris turpis, non vulputate nulla condimentum ac. In hac habitasse platea dictumst. Nullam turpis arcu, accumsan condimentum lectus et, semper imperdiet odio. Praesent auctor malesuada luctus. Curabitur posuere, metus eget sodales tincidunt, libero orci pharetra mi, eget ornare ante justo eget dolor. Donec laoreet sagittis neque, nec porttitor augue consequat ac. Sed euismod enim vel sapien scelerisque volutpat nec non nulla. Vivamus in rutrum nisi. Donec purus eros, mollis et aliquam commodo, iaculis quis odio. In vestibulum mi a gravida imperdiet. In lobortis velit et ante tincidunt, eget fermentum ipsum interdum. Fusce leo diam, consequat in erat id, mollis euismod leo. Nam nec metus sed ante cursus dignissim. Fusce non consequat lorem, non euismod urna."
   },
   {
@@ -16,7 +16,7 @@
     "location": "Bukit Batok, Singapore",
     "image": "ha-gallery/ha-bax.jpg",
     "year": "2022",
-    "size": "23,900sqft",
+    "size": "23,900 sqft",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam varius quis tortor quis aliquet. Mauris eu elementum purus, quis posuere arcu. Sed egestas interdum lorem sed commodo. Mauris tincidunt sem ut eros lobortis dictum. Sed at lacinia est, ac tristique mauris. Curabitur enim arcu, auctor a metus vel, posuere luctus dui. Cras quis lacinia mi, eget euismod massa. Suspendisse non egestas erat. Curabitur quis nulla non lorem viverra lobortis ultricies eget sapien. Ut scelerisque molestie consequat. Ut a leo eu orci dictum aliquet ut vitae diam. Curabitur feugiat mauris turpis, non vulputate nulla condimentum ac. In hac habitasse platea dictumst. Nullam turpis arcu, accumsan condimentum lectus et, semper imperdiet odio. Praesent auctor malesuada luctus. Curabitur posuere, metus eget sodales tincidunt, libero orci pharetra mi, eget ornare ante justo eget dolor. Donec laoreet sagittis neque, nec porttitor augue consequat ac. Sed euismod enim vel sapien scelerisque volutpat nec non nulla. Vivamus in rutrum nisi. Donec purus eros, mollis et aliquam commodo, iaculis quis odio. In vestibulum mi a gravida imperdiet. In lobortis velit et ante tincidunt, eget fermentum ipsum interdum. Fusce leo diam, consequat in erat id, mollis euismod leo. Nam nec metus sed ante cursus dignissim. Fusce non consequat lorem, non euismod urna."
   },
   {
@@ -26,7 +26,97 @@
     "location": "Yishun, Singapore",
     "image": "ha-gallery/ha-charleskeith.jpg",
     "year": "2023",
-    "size": "19,700sqft",
+    "size": "19,700 sqft",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam varius quis tortor quis aliquet. Mauris eu elementum purus, quis posuere arcu. Sed egestas interdum lorem sed commodo. Mauris tincidunt sem ut eros lobortis dictum. Sed at lacinia est, ac tristique mauris. Curabitur enim arcu, auctor a metus vel, posuere luctus dui. Cras quis lacinia mi, eget euismod massa. Suspendisse non egestas erat. Curabitur quis nulla non lorem viverra lobortis ultricies eget sapien. Ut scelerisque molestie consequat. Ut a leo eu orci dictum aliquet ut vitae diam. Curabitur feugiat mauris turpis, non vulputate nulla condimentum ac. In hac habitasse platea dictumst. Nullam turpis arcu, accumsan condimentum lectus et, semper imperdiet odio. Praesent auctor malesuada luctus. Curabitur posuere, metus eget sodales tincidunt, libero orci pharetra mi, eget ornare ante justo eget dolor. Donec laoreet sagittis neque, nec porttitor augue consequat ac. Sed euismod enim vel sapien scelerisque volutpat nec non nulla. Vivamus in rutrum nisi. Donec purus eros, mollis et aliquam commodo, iaculis quis odio. In vestibulum mi a gravida imperdiet. In lobortis velit et ante tincidunt, eget fermentum ipsum interdum. Fusce leo diam, consequat in erat id, mollis euismod leo. Nam nec metus sed ante cursus dignissim. Fusce non consequat lorem, non euismod urna."
+  },
+  {
+    "id": 4,
+    "slug": "goldin",
+    "title": "Goldin",
+    "location": "Paya Lebar, Singapore",
+    "image": "ha-gallery/ha-goldin.jpg",
+    "year": "2014",
+    "size": "193,300 sqft",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam varius quis tortor quis aliquet. Mauris eu elementum purus, quis posuere arcu. Sed egestas interdum lorem sed commodo. Mauris tincidunt sem ut eros lobortis dictum. Sed at lacinia est, ac tristique mauris. Curabitur enim arcu, auctor a metus vel, posuere luctus dui. Cras quis lacinia mi, eget euismod massa. Suspendisse non egestas erat. Curabitur quis nulla non lorem viverra lobortis ultricies eget sapien. Ut scelerisque molestie consequat. Ut a leo eu orci dictum aliquet ut vitae diam. Curabitur feugiat mauris turpis, non vulputate nulla condimentum ac. In hac habitasse platea dictumst. Nullam turpis arcu, accumsan condimentum lectus et, semper imperdiet odio. Praesent auctor malesuada luctus. Curabitur posuere, metus eget sodales tincidunt, libero orci pharetra mi, eget ornare ante justo eget dolor. Donec laoreet sagittis neque, nec porttitor augue consequat ac. Sed euismod enim vel sapien scelerisque volutpat nec non nulla. Vivamus in rutrum nisi. Donec purus eros, mollis et aliquam commodo, iaculis quis odio. In vestibulum mi a gravida imperdiet. In lobortis velit et ante tincidunt, eget fermentum ipsum interdum. Fusce leo diam, consequat in erat id, mollis euismod leo. Nam nec metus sed ante cursus dignissim. Fusce non consequat lorem, non euismod urna."
+  },
+  {
+    "id": 5,
+    "slug": "expeditors",
+    "title": "Expeditors",
+    "location": "Yishun, Singapore",
+    "image": "ha-gallery/ha-expeditors.jpg",
+    "year": "2018",
+    "size": "22,900 sqft",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam varius quis tortor quis aliquet. Mauris eu elementum purus, quis posuere arcu. Sed egestas interdum lorem sed commodo. Mauris tincidunt sem ut eros lobortis dictum. Sed at lacinia est, ac tristique mauris. Curabitur enim arcu, auctor a metus vel, posuere luctus dui. Cras quis lacinia mi, eget euismod massa. Suspendisse non egestas erat. Curabitur quis nulla non lorem viverra lobortis ultricies eget sapien. Ut scelerisque molestie consequat. Ut a leo eu orci dictum aliquet ut vitae diam. Curabitur feugiat mauris turpis, non vulputate nulla condimentum ac. In hac habitasse platea dictumst. Nullam turpis arcu, accumsan condimentum lectus et, semper imperdiet odio. Praesent auctor malesuada luctus. Curabitur posuere, metus eget sodales tincidunt, libero orci pharetra mi, eget ornare ante justo eget dolor. Donec laoreet sagittis neque, nec porttitor augue consequat ac. Sed euismod enim vel sapien scelerisque volutpat nec non nulla. Vivamus in rutrum nisi. Donec purus eros, mollis et aliquam commodo, iaculis quis odio. In vestibulum mi a gravida imperdiet. In lobortis velit et ante tincidunt, eget fermentum ipsum interdum. Fusce leo diam, consequat in erat id, mollis euismod leo. Nam nec metus sed ante cursus dignissim. Fusce non consequat lorem, non euismod urna."
+  },
+  {
+    "id": 6,
+    "slug": "goodrich",
+    "title": "Goodrich",
+    "location": "Serangoon, Singapore",
+    "image": "ha-gallery/ha-goodrich.jpg",
+    "year": "2019",
+    "size": "109,700 sqft",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam varius quis tortor quis aliquet. Mauris eu elementum purus, quis posuere arcu. Sed egestas interdum lorem sed commodo. Mauris tincidunt sem ut eros lobortis dictum. Sed at lacinia est, ac tristique mauris. Curabitur enim arcu, auctor a metus vel, posuere luctus dui. Cras quis lacinia mi, eget euismod massa. Suspendisse non egestas erat. Curabitur quis nulla non lorem viverra lobortis ultricies eget sapien. Ut scelerisque molestie consequat. Ut a leo eu orci dictum aliquet ut vitae diam. Curabitur feugiat mauris turpis, non vulputate nulla condimentum ac. In hac habitasse platea dictumst. Nullam turpis arcu, accumsan condimentum lectus et, semper imperdiet odio. Praesent auctor malesuada luctus. Curabitur posuere, metus eget sodales tincidunt, libero orci pharetra mi, eget ornare ante justo eget dolor. Donec laoreet sagittis neque, nec porttitor augue consequat ac. Sed euismod enim vel sapien scelerisque volutpat nec non nulla. Vivamus in rutrum nisi. Donec purus eros, mollis et aliquam commodo, iaculis quis odio. In vestibulum mi a gravida imperdiet. In lobortis velit et ante tincidunt, eget fermentum ipsum interdum. Fusce leo diam, consequat in erat id, mollis euismod leo. Nam nec metus sed ante cursus dignissim. Fusce non consequat lorem, non euismod urna."
+  },
+  {
+    "id": 7,
+    "slug": "rollsroyce",
+    "title": "Rolls Royce",
+    "location": "Serangoon, Singapore",
+    "image": "ha-gallery/ha-rollsroyce.jpg",
+    "year": "2020",
+    "size": "201,400 sqft",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam varius quis tortor quis aliquet. Mauris eu elementum purus, quis posuere arcu. Sed egestas interdum lorem sed commodo. Mauris tincidunt sem ut eros lobortis dictum. Sed at lacinia est, ac tristique mauris. Curabitur enim arcu, auctor a metus vel, posuere luctus dui. Cras quis lacinia mi, eget euismod massa. Suspendisse non egestas erat. Curabitur quis nulla non lorem viverra lobortis ultricies eget sapien. Ut scelerisque molestie consequat. Ut a leo eu orci dictum aliquet ut vitae diam. Curabitur feugiat mauris turpis, non vulputate nulla condimentum ac. In hac habitasse platea dictumst. Nullam turpis arcu, accumsan condimentum lectus et, semper imperdiet odio. Praesent auctor malesuada luctus. Curabitur posuere, metus eget sodales tincidunt, libero orci pharetra mi, eget ornare ante justo eget dolor. Donec laoreet sagittis neque, nec porttitor augue consequat ac. Sed euismod enim vel sapien scelerisque volutpat nec non nulla. Vivamus in rutrum nisi. Donec purus eros, mollis et aliquam commodo, iaculis quis odio. In vestibulum mi a gravida imperdiet. In lobortis velit et ante tincidunt, eget fermentum ipsum interdum. Fusce leo diam, consequat in erat id, mollis euismod leo. Nam nec metus sed ante cursus dignissim. Fusce non consequat lorem, non euismod urna."
+  },
+  {
+    "id": 8,
+    "slug": "ibm",
+    "title": "IBM",
+    "location": "Punggol, Singapore",
+    "image": "ha-gallery/ha-ibm.jpg",
+    "year": "2016",
+    "size": "333,700 sqft",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam varius quis tortor quis aliquet. Mauris eu elementum purus, quis posuere arcu. Sed egestas interdum lorem sed commodo. Mauris tincidunt sem ut eros lobortis dictum. Sed at lacinia est, ac tristique mauris. Curabitur enim arcu, auctor a metus vel, posuere luctus dui. Cras quis lacinia mi, eget euismod massa. Suspendisse non egestas erat. Curabitur quis nulla non lorem viverra lobortis ultricies eget sapien. Ut scelerisque molestie consequat. Ut a leo eu orci dictum aliquet ut vitae diam. Curabitur feugiat mauris turpis, non vulputate nulla condimentum ac. In hac habitasse platea dictumst. Nullam turpis arcu, accumsan condimentum lectus et, semper imperdiet odio. Praesent auctor malesuada luctus. Curabitur posuere, metus eget sodales tincidunt, libero orci pharetra mi, eget ornare ante justo eget dolor. Donec laoreet sagittis neque, nec porttitor augue consequat ac. Sed euismod enim vel sapien scelerisque volutpat nec non nulla. Vivamus in rutrum nisi. Donec purus eros, mollis et aliquam commodo, iaculis quis odio. In vestibulum mi a gravida imperdiet. In lobortis velit et ante tincidunt, eget fermentum ipsum interdum. Fusce leo diam, consequat in erat id, mollis euismod leo. Nam nec metus sed ante cursus dignissim. Fusce non consequat lorem, non euismod urna."
+  },
+  {
+    "id": 9,
+    "slug": "safran",
+    "title": "Safran",
+    "location": "Changi Industrial Park, Singapore",
+    "image": "ha-gallery/ha-safran.jpg",
+    "year": "2022",
+    "size": "412,900 sqft",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam varius quis tortor quis aliquet. Mauris eu elementum purus, quis posuere arcu. Sed egestas interdum lorem sed commodo. Mauris tincidunt sem ut eros lobortis dictum. Sed at lacinia est, ac tristique mauris. Curabitur enim arcu, auctor a metus vel, posuere luctus dui. Cras quis lacinia mi, eget euismod massa. Suspendisse non egestas erat. Curabitur quis nulla non lorem viverra lobortis ultricies eget sapien. Ut scelerisque molestie consequat. Ut a leo eu orci dictum aliquet ut vitae diam. Curabitur feugiat mauris turpis, non vulputate nulla condimentum ac. In hac habitasse platea dictumst. Nullam turpis arcu, accumsan condimentum lectus et, semper imperdiet odio. Praesent auctor malesuada luctus. Curabitur posuere, metus eget sodales tincidunt, libero orci pharetra mi, eget ornare ante justo eget dolor. Donec laoreet sagittis neque, nec porttitor augue consequat ac. Sed euismod enim vel sapien scelerisque volutpat nec non nulla. Vivamus in rutrum nisi. Donec purus eros, mollis et aliquam commodo, iaculis quis odio. In vestibulum mi a gravida imperdiet. In lobortis velit et ante tincidunt, eget fermentum ipsum interdum. Fusce leo diam, consequat in erat id, mollis euismod leo. Nam nec metus sed ante cursus dignissim. Fusce non consequat lorem, non euismod urna."
+  },
+  {
+    "id": 10,
+    "slug": "sdv",
+    "title": "SDV",
+    "location": "SDV, Singapore",
+    "image": "ha-gallery/ha-sdv.jpg",
+    "year": "2023",
+    "size": "75,700 sqft",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam varius quis tortor quis aliquet. Mauris eu elementum purus, quis posuere arcu. Sed egestas interdum lorem sed commodo. Mauris tincidunt sem ut eros lobortis dictum. Sed at lacinia est, ac tristique mauris. Curabitur enim arcu, auctor a metus vel, posuere luctus dui. Cras quis lacinia mi, eget euismod massa. Suspendisse non egestas erat. Curabitur quis nulla non lorem viverra lobortis ultricies eget sapien. Ut scelerisque molestie consequat. Ut a leo eu orci dictum aliquet ut vitae diam. Curabitur feugiat mauris turpis, non vulputate nulla condimentum ac. In hac habitasse platea dictumst. Nullam turpis arcu, accumsan condimentum lectus et, semper imperdiet odio. Praesent auctor malesuada luctus. Curabitur posuere, metus eget sodales tincidunt, libero orci pharetra mi, eget ornare ante justo eget dolor. Donec laoreet sagittis neque, nec porttitor augue consequat ac. Sed euismod enim vel sapien scelerisque volutpat nec non nulla. Vivamus in rutrum nisi. Donec purus eros, mollis et aliquam commodo, iaculis quis odio. In vestibulum mi a gravida imperdiet. In lobortis velit et ante tincidunt, eget fermentum ipsum interdum. Fusce leo diam, consequat in erat id, mollis euismod leo. Nam nec metus sed ante cursus dignissim. Fusce non consequat lorem, non euismod urna."
+  },
+  {
+    "id": 11,
+    "slug": "thales",
+    "title": "Thales",
+    "location": "Changi Industrial Park, Singapore",
+    "image": "ha-gallery/ha-thales.jpg",
+    "year": "2021",
+    "size": "93,400sqft",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam varius quis tortor quis aliquet. Mauris eu elementum purus, quis posuere arcu. Sed egestas interdum lorem sed commodo. Mauris tincidunt sem ut eros lobortis dictum. Sed at lacinia est, ac tristique mauris. Curabitur enim arcu, auctor a metus vel, posuere luctus dui. Cras quis lacinia mi, eget euismod massa. Suspendisse non egestas erat. Curabitur quis nulla non lorem viverra lobortis ultricies eget sapien. Ut scelerisque molestie consequat. Ut a leo eu orci dictum aliquet ut vitae diam. Curabitur feugiat mauris turpis, non vulputate nulla condimentum ac. In hac habitasse platea dictumst. Nullam turpis arcu, accumsan condimentum lectus et, semper imperdiet odio. Praesent auctor malesuada luctus. Curabitur posuere, metus eget sodales tincidunt, libero orci pharetra mi, eget ornare ante justo eget dolor. Donec laoreet sagittis neque, nec porttitor augue consequat ac. Sed euismod enim vel sapien scelerisque volutpat nec non nulla. Vivamus in rutrum nisi. Donec purus eros, mollis et aliquam commodo, iaculis quis odio. In vestibulum mi a gravida imperdiet. In lobortis velit et ante tincidunt, eget fermentum ipsum interdum. Fusce leo diam, consequat in erat id, mollis euismod leo. Nam nec metus sed ante cursus dignissim. Fusce non consequat lorem, non euismod urna."
+  },
+  {
+    "id": 12,
+    "slug": "ups",
+    "title": "UPS",
+    "location": "Kranji, Singapore",
+    "image": "ha-gallery/ha-ups.jpg",
+    "year": "2020",
+    "size": "56,300sqft",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam varius quis tortor quis aliquet. Mauris eu elementum purus, quis posuere arcu. Sed egestas interdum lorem sed commodo. Mauris tincidunt sem ut eros lobortis dictum. Sed at lacinia est, ac tristique mauris. Curabitur enim arcu, auctor a metus vel, posuere luctus dui. Cras quis lacinia mi, eget euismod massa. Suspendisse non egestas erat. Curabitur quis nulla non lorem viverra lobortis ultricies eget sapien. Ut scelerisque molestie consequat. Ut a leo eu orci dictum aliquet ut vitae diam. Curabitur feugiat mauris turpis, non vulputate nulla condimentum ac. In hac habitasse platea dictumst. Nullam turpis arcu, accumsan condimentum lectus et, semper imperdiet odio. Praesent auctor malesuada luctus. Curabitur posuere, metus eget sodales tincidunt, libero orci pharetra mi, eget ornare ante justo eget dolor. Donec laoreet sagittis neque, nec porttitor augue consequat ac. Sed euismod enim vel sapien scelerisque volutpat nec non nulla. Vivamus in rutrum nisi. Donec purus eros, mollis et aliquam commodo, iaculis quis odio. In vestibulum mi a gravida imperdiet. In lobortis velit et ante tincidunt, eget fermentum ipsum interdum. Fusce leo diam, consequat in erat id, mollis euismod leo. Nam nec metus sed ante cursus dignissim. Fusce non consequat lorem, non euismod urna."
   }
 ]
